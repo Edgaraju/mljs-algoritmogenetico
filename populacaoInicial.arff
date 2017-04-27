@@ -1,0 +1,24 @@
+% December 1997 - Changed class attribute values to semi-sensible names
+%
+% 1. Title: Base de população - Algoritmo Genetico
+% 
+% 2. Source Information
+%    -- Creator: Edgar Lima
+%    -- Date: 4/27/2017
+   
+@RELATION populacaoInicial
+
+@ATTRIBUTE individuo string
+
+@DATA
+%
+% Instances (5):
+%
+1010101010
+1111101010
+1010000010
+1010101111
+1010101010
+%
+%
+%
